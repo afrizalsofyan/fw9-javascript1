@@ -21,5 +21,4 @@ console.log(myData)
 //soal 2
 let {address} = data
 let {street, city} = address
-// console.log(`${address.street}, ${address.city}`)
 console.log(`${street}, ${city}`)
